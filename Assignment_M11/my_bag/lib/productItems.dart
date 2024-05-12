@@ -2,48 +2,48 @@ class productItems {
   static List<Map<String, dynamic>> items = [
     {
       "img":
-          "https://cdn3.mozzartsport.co.ke/upload/825x464/News/Image/2023_03/1679434109548_066_DPPI_40522031_016.jpg",
-      "title": "Kevin De Bruyne",
-      "color": "Red",
-      "Size": "L",
-      "count": 1,
-      "price": 80,
-    },
-    {
-      "img":
-          "https://tmssl.akamaized.net/images/foto/galerie/lionel-messi-1711467863-132837.jpg?lm=1711467875",
-      "title": "Lionel Messi",
-      "color": "Pink",
+      "https://www.shutterstock.com/editorial/image-editorial/M3T2M91bN3D7U32eMTQ3NzM=/lionel-messi-10-argentina-prepares-corner-kicks-440nw-13428232z.jpg",
+      "title": "Sports Jersey",
+      "color": "White",
       "Size": "L",
       "count": 1,
       "price": 100,
     },
     {
       "img":
-          "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/08/113689.jpg",
-      "title": "Neymar jr",
-      "color": "Black",
+          "https://www.dmarge.com/wp-content/uploads/2023/01/Cocktail-Attire-Feature.jpeg",
+      "title": "Formal Dress",
+      "color": "Teal Blue",
       "Size": "L",
       "count": 1,
-      "price": 85,
+      "price": 120,
     },
     {
       "img":
-          "https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/4c2466de3e8bdb851376ef79fc19c5ca085dc652651a8353251b43486e895c80.jpg",
-      "title": "C. Ronaldo",
-      "color": "White",
+          "https://cms.cloudinary.vpsvc.com/image/upload/c_scale,dpr_auto,f_auto,q_70,w_auto:50:550/India%20LOB/Category%20Images/Men_s-Basic-Polyester-T-shirts-Colours_Category-image_1x1",
+      "title": "T-Shirt",
+      "color": "Red",
       "Size": "L",
       "count": 1,
-      "price": 75,
+      "price": 40,
     },
     {
       "img":
-          "https://tmssl.akamaized.net/images/foto/galerie/lautaro-martinez-im-trikot-von-inter-1576149727-28248.jpg?lm=1576149733",
-      "title": "L. Martinez",
-      "color": "Blue",
+          "https://jimmyluxury.in/cdn/shop/files/IMG_0932_352d2a73-e0e6-4fc8-98df-d9db5fca9d84.jpg?v=1711612258",
+      "title": "Shirt",
+      "color": "Gray",
+      "Size": "L",
+      "count": 1,
+      "price": 50,
+    },
+    {
+      "img":
+          "https://www.kosha.co/journal/wp-content/uploads/2022/09/turtleneck-and-suit-800x534.jpg",
+      "title": "Turtleneck",
+      "color": "Yellow",
       "Size": "M",
       "count": 1,
-      "price": 82,
+      "price": 80,
     },
   ];
 }
