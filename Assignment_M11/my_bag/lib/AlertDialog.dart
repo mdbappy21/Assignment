@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:my_bag/productItems.dart';
 class AlartDialog {
-  static alartDialog(context,index) {
+  static alertDialog(context,index) {
     return showDialog(
         context: context,
         builder: (BuildContext context) {
           return Expanded(
               child: AlertDialog(
-            title: Text(textAlign: TextAlign.center, "Congratulations!"),
+            title: const Text(textAlign: TextAlign.center, "Congratulations!"),
             content: Text(
                 textAlign: TextAlign.center,
                 "You have added\n5\n${productItems.items[index]["title"]} on your bag!"),
@@ -17,12 +17,12 @@ class AlartDialog {
                     Navigator.of(context).pop();
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Color.fromRGBO(219, 48, 34, 1),
-                    foregroundColor: Color.fromRGBO(255, 255, 255, 1),
+                    backgroundColor: const Color.fromRGBO(219, 48, 34, 1),
+                    foregroundColor: const Color.fromRGBO(255, 255, 255, 1),
                     padding: const EdgeInsets.symmetric(
                         horizontal: 100, vertical: 5),
                   ),
-                  child: Text("OKAY"))
+                  child: const Text("OKAY"))
             ],
           ));
         });
