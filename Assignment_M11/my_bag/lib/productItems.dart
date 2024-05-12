@@ -6,7 +6,7 @@ class productItems {
       "title": "Kevin De Bruyne",
       "color": "Red",
       "Size": "L",
-      "count": 0,
+      "count": 1,
       "price": 80,
     },
     {
@@ -15,7 +15,7 @@ class productItems {
       "title": "Lionel Messi",
       "color": "Pink",
       "Size": "L",
-      "count": 0,
+      "count": 1,
       "price": 100,
     },
     {
@@ -24,7 +24,7 @@ class productItems {
       "title": "Neymar jr",
       "color": "Black",
       "Size": "L",
-      "count": 0,
+      "count": 1,
       "price": 85,
     },
     {
@@ -33,7 +33,7 @@ class productItems {
       "title": "C. Ronaldo",
       "color": "White",
       "Size": "L",
-      "count": 0,
+      "count": 1,
       "price": 75,
     },
     {
@@ -42,7 +42,7 @@ class productItems {
       "title": "L. Martinez",
       "color": "Blue",
       "Size": "M",
-      "count": 0,
+      "count": 1,
       "price": 82,
     },
   ];
